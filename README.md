@@ -82,6 +82,6 @@ Fresh graduate with a proven track record of shipping production-grade systems a
 
 *Open to full-time roles · Available immediately · Cairo, Egypt (remote-friendly)*
 
-**[View my portfolio →](https://YOUR_PORTFOLIO_URL)** &nbsp;|&nbsp; **[Connect on LinkedIn →](https://linkedin.com/in/YOUR_LINKEDIN)**
+**[View my portfolio →]([https://YOUR_PORTFOLIO_URL](https://itomarbahaaeldin.github.io/omar-bahaa-portfolio/))** &nbsp;|&nbsp; **[Connect on LinkedIn →](www.linkedin.com/in/omar-bahaaeldin10)**
 
 </div>
