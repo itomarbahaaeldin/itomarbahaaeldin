@@ -7,7 +7,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Bahaa-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-omarbahaa.dev-000000?style=flat-square&logo=vercel)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-open%20to%20work-EA4335?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-open%20to%20work-EA4335?style=flat-square&logo=gmail)](mailto:it.omar.bahaaeldin@gmail.com
+)
 [![Location](https://img.shields.io/badge/Based%20in-Cairo%2C%20Egypt-FF6B35?style=flat-square)](https://maps.google.com/?q=Cairo,Egypt)
 
 </div>
