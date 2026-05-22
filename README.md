@@ -22,7 +22,7 @@ const omar = {
 
 I'm a software engineer who builds things end-to-end — from scalable **NestJS microservices** with 96%+ test coverage to **ML pipelines** comparing 7 forecasting models at once. I care deeply about clean architecture, real-world impact, and code that ships.
 
-- 🏭 Built a **real-time fabric defect detection** system (YOLOv9e) as my graduation project
+- 🏭 Built a **real-time fabric defect detection** system (YOLOv12m) as my graduation project
 - 📈 Compared **LSTM, Transformer, Prophet, LightGBM & ARIMA** for S&P 500 forecasting
 - 🌍 Created **Waza3ly** — a full-stack food distribution platform connecting donors, volunteers & people in need
 - 🏦 Achieved **AUC 0.787** on the Kaggle Home Credit competition (LightGBM)
@@ -47,7 +47,7 @@ I'm a software engineer who builds things end-to-end — from scalable **NestJS 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=leaf&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv9-00FFFF?style=flat-square&logo=opencv&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLOv12m-00FFFF?style=flat-square&logo=opencv&logoColor=black)
 
 **Frontend**
 
@@ -62,10 +62,10 @@ I'm a software engineer who builds things end-to-end — from scalable **NestJS 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [⚙️ time-off-service](https://github.com/itomarbahaaeldin/time-off-service) | Enterprise NestJS microservice · HCM integration · 96%+ test coverage | NestJS · TypeScript · PostgreSQL |
-| [🌍 waza3ly-food-distribution-platform](https://github.com/itomarbahaaeldin/waza3ly-food-distribution-platform) | Full-stack platform · role-based dashboards · delivery tracking | React · Node.js · MongoDB |
+| [🌍 waza3ly-food-distribution-platform](https://github.com/itomarbahaaeldin/waza3ly-food-distribution-platform) | Full-stack platform · role-based dashboards · delivery tracking | PHP · PostgreSQL · TailwindCSS |
 | [📈 sp500-forecasting](https://github.com/itomarbahaaeldin/sp500-forecasting) | Comparative study of 7 models: LSTM, Transformer, Prophet, LightGBM, ARIMA | Python · PyTorch · Prophet |
 | [🏦 credit-risk-prediction](https://github.com/itomarbahaaeldin/credit-risk-prediction) | Kaggle Home Credit · AUC 0.787 | Python · LightGBM · Pandas |
-| [🏭 fabric-defect-detection](https://github.com/itomarbahaaeldin/fabric-defect-detection-grad-project-) | Real-time defect detection · Graduation Project · YOLOv9e | Python · YOLOv9 · OpenCV |
+| [🏭 fabric-defect-detection](https://github.com/itomarbahaaeldin/fabric-defect-detection) | Real-time defect detection · Graduation Project · YOLOv12m | Python · YOLOv12 · OpenCV |
 | [🔍 information-retrieval-evaluation](https://github.com/itomarbahaaeldin/information-retrieval-evaluation) | NLP benchmarking · TF-IDF · cosine similarity · document retrieval | Python · NLP · scikit-learn |
 
 <br/>
